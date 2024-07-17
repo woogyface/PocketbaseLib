@@ -1,3 +1,5 @@
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W2SF6PQ)
+
 # PocketbaseLib
 
 A PocketBase lib written in GDScript 4.x. Far from feature complete but the basics are covered 🤞
