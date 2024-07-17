@@ -11,7 +11,7 @@ var pb := PocketBase.new("http://127.0.0.1", 8081)
 
 
 func _ready() -> void:
-	realtime_example()
+	list_search()
 
 
 func login_example() -> void:
